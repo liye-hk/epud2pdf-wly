@@ -26,7 +26,7 @@ Epub2PDF Converter is a Python microservice that enables the conversion of `.epu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jugleni/Epub2PDF.git
+git clone https://github.com/liye-hk/epud2pdf-wly.git
 cd Epub2PDF
 ```
 
